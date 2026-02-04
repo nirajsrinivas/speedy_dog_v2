@@ -1,0 +1,15 @@
+streamlit
+pandas
+folium
+streamlit-folium
+geopy
+requests
+numpy
+osmnx
+geopandas
+shapely
+fiona
+beautifulsoup4
+lxml
+matplotlib
+rtree

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+# Exclude raw data if it's too large, but keep small sample data if needed.
+# For now, we will exclude the downloaded ibtracs csv if it exists, but keep other data.
+data/ibtracs*.csv
